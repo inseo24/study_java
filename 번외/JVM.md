@@ -43,7 +43,8 @@ JRE = JVM + Library
 
 # JVM 구조
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45c1d9b4-9ee1-4e9a-815a-aba0e8a62da2/Untitled.png)
+![JVM architecture](./JVM_archi.png)
+
 
 ### 클래스로더
 
@@ -85,7 +86,8 @@ JRE = JVM + Library
 
 # 클래스 로더
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4dd4b206-6480-4095-b754-c69a842b43ba/Untitled.png)
+![class loader architecture](./classloader.png)
+
 
 ### 클래스 로더
 
