@@ -16,9 +16,9 @@
 - [x] CH06 객체지향1
 - [x] CH07 객체지향2  
 - [x] CH08 예외처리 
-- [ ] CH09 java.lang 패키지와 유용한 클래스
-- [ ] CH10 날짜와 시간 & 형식화
-- [ ] CH11 컬렉션 프레임워크
+- [x] CH09 java.lang 패키지와 유용한 클래스
+- [x] CH10 날짜와 시간 & 형식화
+- [x] CH11 컬렉션 프레임워크
 - [ ] CH12 Generic, enums, annotation
 - [ ] CH13 Thread
 - [ ] CH14 람다와 스트림
